@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "Nathan Macharia",
+  "license": "ISC",
+  "description": ""
+}
